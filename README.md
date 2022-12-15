@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Aswin Das</h1>
 <h3 align="center">I'm a technophile, currently researching for a master's.</h3><h3 align="center">📍 Kerala, India</h3>
 
-- 📫 How to reach me **md.aswindas@gmail.com**
+- 📫 How to reach me **aswindas020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
